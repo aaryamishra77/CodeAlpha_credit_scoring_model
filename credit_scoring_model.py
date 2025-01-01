@@ -6,11 +6,11 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
 # Step 1: Load the dataset
-# Replace 'data.csv' with the actual path to the dataset
+
 data = pd.read_csv('data.csv')
 
 # Step 2: Preprocess the data
-# Handle missing values
+
 data.fillna(data.median(), inplace=True)
 
 # Encode categorical variables
