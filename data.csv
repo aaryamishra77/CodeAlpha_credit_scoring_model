@@ -1,0 +1,6 @@
+AGE,INCOME,EMPLOYEMENT_STATUS,LOAN_HISTORY,CREDITWORTHINESS
+25,50000,Employed,2 Loans paid,1
+40,30000,Unemployed,Defaulted,0
+35,70000,Self-Employed,No loans,1
+28,60000,Employed,1 Loan paid,1
+50,20000,Retired,Defaulted,0
